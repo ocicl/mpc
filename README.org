@@ -1,0 +1,10 @@
+* mpc
+
+Monadic parser combinators library. It provides a toolbox of predefined parsers, facilities for error handling and parses arrays, streams and lists.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eugeneia/mpc.git   |
+| commit  | e20c737  |
+| systems | mpc |
+|---------+-------------------------------------------|
+
